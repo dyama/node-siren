@@ -1,0 +1,17 @@
+{
+  "name":    "siren",
+  "version": "0.0",
+  "description": "",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test":    "node test/test.js",
+    "install": "node-gyp configure build"
+  },
+  "repository": {
+    "type": "git",
+    "url":  "https://github.com/dyama/node-siren.git"
+  },
+  "author": "dyama",
+  "gypfile": true
+}
