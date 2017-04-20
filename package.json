@@ -6,7 +6,6 @@
   "devDependencies": {},
   "scripts": {
     "test":    "node test/test.js",
-    "install": "node-gyp configure build"
   },
   "repository": {
     "type": "git",
